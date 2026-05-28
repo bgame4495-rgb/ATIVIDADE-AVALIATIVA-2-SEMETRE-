@@ -1,7 +1,5 @@
 # ATIVIDADE-AVALIATIVA-2-SEMETRE-
-Para te ajudar a dominar a linguagem do desenvolvimento web, preparei uma lista explicando as principais gírias, jargões e termos técnicos que aparecem no código do seu portfólio.
 
-Entender esses termos é fundamental para mandar bem nas aulas do SENAI e se comunicar como um desenvolvedor profissional no mercado.
 
 🌐 Termos de Estrutura e Layout
 container (Contêiner): É uma gíria e técnica de layout para definir uma "caixa" invisível que limita a largura máxima do conteúdo na tela. Ela serve para o seu texto não ficar colado nas bordas do monitor em telas muito grandes, mantendo tudo centralizado e alinhado.
